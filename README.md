@@ -22,7 +22,7 @@ Kaggle is offering its macro course for begineers in machine learning and Data S
 * My Notebook Link of Titanic: **![Titanic Cmopetition]**(https://www.kaggle.com/moizkhan11/getting-started-with-titanic)
 
 ## Day 2: Python Lesson 1 Hello, Python
-Read this tutorial(link: https://notifications.google.com/g/p/AD-FnEx2WlWjIqdNVfyJRESpKMVdJrj3WAgW43Sv9o11ZSQU_PeQUC5y7sOoq2zV4smn7T-pBUjoR0RpQmjN77Db9W96x-x5BV1iRCFSl4j3QthQgV9_1wK8uIbYyamcsoaCfTO2rFwGe0OBGZJZAxzQHTA0IvCaK1YyT8mb6sI8raU_llweVMYc0VEhZ2hMOPpuof1pxA4G44a-Sbr2LhKtC0npJh0CmuZD) (from Lesson 1 of the Python course)
+* Read this tutorial(link: https://notifications.google.com/g/p/AD-FnEx2WlWjIqdNVfyJRESpKMVdJrj3WAgW43Sv9o11ZSQU_PeQUC5y7sOoq2zV4smn7T-pBUjoR0RpQmjN77Db9W96x-x5BV1iRCFSl4j3QthQgV9_1wK8uIbYyamcsoaCfTO2rFwGe0OBGZJZAxzQHTA0IvCaK1YyT8mb6sI8raU_llweVMYc0VEhZ2hMOPpuof1pxA4G44a-Sbr2LhKtC0npJh0CmuZD) (from Lesson 1 of the Python course)
 * Complete this exercise(https://notifications.google.com/g/p/AD-FnEygy18e2Jd_MqH89ksKwdt20cywS5XjhlgzVz1GTzETh9efNu0MnVhR72WgKR-kwm7NSeI4TKI8viJEzT4aufm1FtboATZ28ZG-0Two7qIWiCCIF3dffNVEHSGkaXGQ879srt7eOM8N4Ci4QB67KqiKYQDwh_klJtYz0AMgIywfu2U4R9xhV5jBkj0wutMKJeOYr5ZTbcfXzG9GIXn1-t54Zw) (from Lesson 1 of the Python course)
 * My Notebook Link: https://www.kaggle.com/moizkhan11/exercise-syntax-variables-and-numbers?scriptVersionId=71171382
 
