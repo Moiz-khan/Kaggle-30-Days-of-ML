@@ -1,7 +1,9 @@
 # Kaggle-30-Days-of-ML
 ![GitHub Logo](/kaggle.jpg)
 **![My kaggle Profile]**(https://www.kaggle.com/moizkhan11)
+
 Now lets get started!!!
+
 Resources **Video Lecture by Abhishek Thakur** For better Understanding of Python Link:https://www.youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N
 On **Week 1** we will cover the basics of **Python** which includes:
 
